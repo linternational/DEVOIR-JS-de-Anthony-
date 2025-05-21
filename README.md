@@ -10,6 +10,6 @@ Installer les dépendances :
 Ouvrez le terminal intégré de VS Code (ou votre invite de commande habituelle).
 Naviguez jusqu'au dossier racine du projet.
 # Exécutez la commande : npm install
-Lancer le projet :
+##Lancer le projet :
 
-## Une fois les dépendances installées, lancez l'application avec : # npm run dev
+# Une fois les dépendances installées, lancez l'application avec :  npm run dev
