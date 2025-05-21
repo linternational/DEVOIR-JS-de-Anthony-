@@ -1,4 +1,4 @@
-##Démarrage rapide du projet
+## Démarrage rapide du projet
 #Récupérer le code :
 
 Option 1 (Git) : Clonez le dépôt en utilisant la commande git clone https://github.com/linternational/DEVOIR-JS-de-Anthony.git
