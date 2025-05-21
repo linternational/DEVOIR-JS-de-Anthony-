@@ -1,5 +1,5 @@
 # Démarrage rapide du projet
-##Récupérer le code :
+## Récupérer le code :
 
 Option 1 (Git) : Clonez le dépôt en utilisant la commande git clone https://github.com/linternational/DEVOIR-JS-de-Anthony-.git
 Option 2 (Zip) : Téléchargez le fichier ZIP du projet directement depuis GitHub et décompressez-le.
@@ -12,4 +12,4 @@ Naviguez jusqu'au dossier racine du projet.
 # Exécutez la commande : npm install
 Lancer le projet :
 
-# Une fois les dépendances installées, lancez l'application avec : npm run dev
+## Une fois les dépendances installées, lancez l'application avec : # npm run dev
